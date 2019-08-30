@@ -3,6 +3,7 @@
 This a concept for a future online store for a chatino clothing line and natural shoes line from indigenous people from san juan quiahije oaxaca Mexico.
 
 ## Usage
+[DEMO](https://leamsigc.github.io/skakna/)
 
 Just open the 
 ```html 
